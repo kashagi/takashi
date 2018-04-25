@@ -1,0 +1,15 @@
+body {
+    font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic' ; 
+    background-color: #eee8aa;
+  }
+
+div {
+    max-width: 50%;
+    margin: 0 auto;
+  }
+
+
+h1{
+    font-size: 20px;
+    color: blue;
+  }
